@@ -1,0 +1,8 @@
+{
+  "name": "finobe",
+  "description": "finobe",
+  "image": "heroku/nodejs",
+  "repository": "https://github.com/finobeproject/proxytest",
+  "keywords": ["finobe", "finobe"],
+  "website": "https://github.com/finobeproject/proxytest"
+}
